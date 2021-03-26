@@ -5,7 +5,6 @@
 		.include "patches/bg_cave.s"
 		.include "patches/bg_field.s"
 		.include "patches/bg_grass.s"
-		.include "patches/bg_gym.s"
 		.include "patches/bg_longgrass.s"
 		.include "patches/bg_mountain.s"
 		.include "patches/bg_sand.s"

@@ -1,5 +1,5 @@
-# Battle-BG-FR
-This is a small project for making the task of inserting battle Background for FR hackers easier than ever before.
+# Battle-BG [FR]
+This is a small project for making the task of inserting battle backgrounds for FR hackers easier than ever before.
 
 Instructions:
 1) Drop a vanilla FR rom called "BPRE0.gba" in a newly created folder called roms.
